@@ -1,0 +1,1 @@
+web: gunicorn myOAuth.wsgi --log-file -
